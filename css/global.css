@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    height: 10rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    
+}
+
+.box-1 {
+    background-color: orange;
+    width: 50%;
+    height: 10rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.box-2 {
+    background-color: orange;
+    width: 50%;
+    height: 10rem;
+    margin-right: 1rem;
+}
+
